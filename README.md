@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I’m always on the lookout for new tools and frameworks to boost my productivity—whether it's automation tools, code editors, or productivity hacks!
 
 <!---
-sundaram786/sundaram786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sundaram786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
